@@ -1,2 +1,2 @@
-{ "profile": [ { "id": 1, "name": "Shibin", "username": "sb", "email": "sr.demo@g.com", "address": { "street": "ckd-town", "city": "ckd-tcr", "zipcode": "680506" }, "phone": "123456790" }, { "id": 2, "name": "Shijin", "username": "sj", "email": "sj.demo@g.com", "address": { "street": "mrc-town", "city": "mrc-ern", "zipcode": "682025" }, "phone": "0987654321" }]}
+{ "profile": [ { "id": 1, "name": "Shibin", "username": "sb", "email": "sr.demo@g.com", "phone": "123456790" }, { "id": 2, "name": "Shijin", "username": "sj", "email": "sj.demo@g.com", "phone": "0987654321" }]}
 
