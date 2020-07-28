@@ -1,2 +1,11 @@
-{ "profile": [ { "id": 1, "name": "Shibin", "username": "sb", "email": "sr.demo@g.com", "phone": "123456790" }, { "id": 2, "name": "Shijin", "username": "sj", "email": "sj.demo@g.com", "phone": "0987654321" }]}
-
+{ 
+  "profile": 
+  [ 
+    { 
+      "id": 1, 
+      "name": "Shibin", 
+      "email": "sr.demo@g.com", 
+      "phone": "123456790" 
+    }
+  ]
+}
